@@ -2,7 +2,6 @@
 #include<math.h>
 int main()
 {
-	//printf("chinh sua file bai1.c");
-    printf("chinh sua lan 2 file bai1.c");
+	printf("tao file bai2.c");
    	return 0;
 }
